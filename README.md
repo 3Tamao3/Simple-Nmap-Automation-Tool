@@ -1,0 +1,1 @@
+This project demonstrates a simple python script for automating Nmap scans using the python-nmap library. Nmap is a open-source tool used for network discovery and security auditing. This script provides an interface for running different types of scans(SYN ACK-, UDP-, Comphrehensive Scan) on a specified IP address, showcasing basic network scanning capabilities.
